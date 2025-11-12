@@ -12,3 +12,4 @@ C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
 C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
 C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
 C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.sourcelink.json
