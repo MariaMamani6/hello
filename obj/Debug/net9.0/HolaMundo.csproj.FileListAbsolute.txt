@@ -1,0 +1,14 @@
+C:\NetCoreSessions\HolaMundo\bin\Debug\net9.0\HolaMundo.exe
+C:\NetCoreSessions\HolaMundo\bin\Debug\net9.0\HolaMundo.deps.json
+C:\NetCoreSessions\HolaMundo\bin\Debug\net9.0\HolaMundo.runtimeconfig.json
+C:\NetCoreSessions\HolaMundo\bin\Debug\net9.0\HolaMundo.dll
+C:\NetCoreSessions\HolaMundo\bin\Debug\net9.0\HolaMundo.pdb
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfoInputs.cache
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfo.cs
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.dll
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
+C:\NetCoreSessions\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll
