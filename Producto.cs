@@ -19,4 +19,10 @@ class Producto
     {
         Console.WriteLine("Producto: " + Nombre + ", Precio: $ " + Precio + " , stock: " + stock);
     }
+
+    public void ActualizarStock(int cantidad)
+    {
+        this.stock += cantidad; 
+        Console.WriteLine($"Stock de '{Nombre}' actualizado. Nuevo stock: {this.stock}");
+    }
 }
