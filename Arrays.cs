@@ -1,3 +1,4 @@
+/*
 string[] frutas = new string[3];
 frutas[0] = "Manzana";
 frutas[1] = "Banana";
@@ -26,3 +27,7 @@ foreach (KeyValuePair<int, string> par in frutasdic)
 {
     Console.WriteLine("Clave: " + par.Key + ", Valor: " + par.Value);
 }
+
+
+*/
+
